@@ -4,3 +4,6 @@
 ### Used models 
 - Linear Regression
 - Ridge Regression
+- Lasso Regression
+- Polynomial Regression
+- Random Forest Regression
