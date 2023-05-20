@@ -12,3 +12,6 @@
 - Numpy
 - Pandas
 - Matplotlib
+- seaborn 
+- Sklearn 
+- Warnings (to ignore warning )
